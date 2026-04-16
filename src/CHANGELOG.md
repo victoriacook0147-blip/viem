@@ -1,5 +1,11 @@
 # viem
 
+## 2.48.1
+
+### Patch Changes
+
+- [`099684399e5d4807de02e97f4902e3c0e56ee65c`](https://github.com/wevm/viem/commit/099684399e5d4807de02e97f4902e3c0e56ee65c) Thanks [@jxom](https://github.com/jxom)! - Fixed `feePayerSignature` being dropped in Tempo's `formatTransactionRequest`.
+
 ## 2.48.0
 
 ### Minor Changes
